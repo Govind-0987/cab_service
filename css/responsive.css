@@ -1,7 +1,11 @@
 
+@media screen and (max-width: 1440px) {
+    section.banner-HMWP {
+        margin-top: 8.8%;
+    }
+}
 
-
-@media screen and (max-width: 352px) {
+@media screen and (max-width: 362px) {
 .abouthm-leftcon img {
     max-width: 100%;
 }

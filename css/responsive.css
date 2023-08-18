@@ -1,0 +1,330 @@
+
+
+
+@media screen and (max-width: 350px) {
+.abouthm-leftcon img {
+    max-width: 100%;
+}
+
+section.banner-HMWP {
+    margin-top: 49.9%;
+}
+
+.header-topright {
+    float: left;
+    margin-top: 6px;
+}
+
+.banner-rightHM {
+    margin-top: 10px;
+}
+
+.banner-rightHM h5 {
+    font-size: 14px;
+    margin: 0;
+}
+
+.banner-rightHM h2 {
+    font-size: 16px;
+}
+
+section.banner-HMWP {
+    padding: 30px 0;
+    margin-top: 47%;
+}
+
+.banner-rightHM p {
+    font-size: 12px;
+    line-height: 1.3;
+    margin: 0;
+}
+
+.abouthm-rightcon h5 {
+    width: 18.2%;
+    font-size: 14px;
+    margin-left: 38%;
+}
+
+.header-topleft img {
+    max-width: 16px;
+}
+
+.header-topleft li {
+    padding-right: 3px;
+    font-size: 12px;
+}
+
+.header-socse li {
+    margin-right: 6px;
+}
+
+.header-bottomsec img {
+    max-width: 60%;
+}
+
+button.navbar-toggler {
+    padding: 3px;
+    font-size: 16px;
+}
+
+.whatsapp-Icon img {
+    max-width: 70%;
+}
+
+.whatsapp-Icon {
+    right: 0px;
+}
+
+.banner-rightHM {
+    text-align: center;
+}
+
+.abouthm-rightcon h4 {
+    font-size: 16px;
+}
+
+.service-leftcon h4 {
+    font-size: 16px;
+}
+
+.client-revright h4 {
+    font-size: 16px;
+}
+
+.footer-boxcmn h5 {
+    font-size: 18px;
+    margin: 0;
+}
+
+.footer-sec a {
+    font-size: 14px;
+}
+
+.footer-boxcmn {
+    margin-top: 20px;
+}
+
+footer.footer-wp {
+    margin-top: 10px;
+    padding: 10px 0;
+}
+
+.gallery-head {
+    width: 100%;
+}
+
+.gallery-head p {
+    font-size: 12px;
+    line-height: 1.3;
+}
+
+section.client-reviewwp {
+    padding: 20px 0;
+}
+
+.client-revright h5 {
+    font-size: 16px;
+    margin: 0;
+}
+
+.client-revright p {
+    font-size: 12px;
+}
+
+.client-revright {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.reviewBox {
+    text-align: center;
+}
+
+.testIcon img {
+    max-width: 60%;
+    margin-left: 260%;
+}
+
+.reviewBox {
+    padding: 40px 30px 20px;
+}
+
+section.service-hmwp {
+    padding: 20px 0;
+}
+
+.service-cmbBox p {
+    font-size: 14px;
+}
+
+.service-cmbBox h5 {
+    font-size: 16px;
+    margin: 0;
+}
+
+.service-cmbBox {
+    text-align: center;
+}
+
+.service-leftcon {
+    margin-bottom: 30px;
+}
+
+.service-leftcon h5 {
+    font-size: 16px;
+}
+
+.service-leftcon p {
+    font-size: 12px;
+}
+
+a.cmn-cadA {
+    font-size: 13px;
+    padding: 4px 10px;
+}
+
+.service-leftcon {
+    text-align: center;
+}
+
+.about-hmsec {
+    padding: 30px 0;
+}
+
+.abouthm-rightcon p {
+    font-size: 12px;
+}
+
+.service-cmbBox p {
+    font-size: 12px !important;
+}
+
+.service-cmbBox {
+    margin: 0 30px 20px;
+}
+
+.abouthm-rightcon {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.header-topright img {
+    max-width: 80%;
+}
+
+.gallery-head h5 {
+    width: 15.3%;
+    font-size: 16px;
+    margin-left: 39%;
+}
+
+.gallery-head {
+    text-align: center;
+}
+
+.abotusec-abo h4 {
+    font-size: 18px;
+    padding-bottom: 10px;
+}
+
+.aboBoxcon {
+    padding: 15px 12px 0px 10px;
+}
+
+.aboBoxcon h5 {
+    font-size: 16px;
+    margin: 0;
+}
+
+.aboBoxcon span {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.aboBoxcon p {
+    text-align: start;
+    font-size: 14px;
+}
+
+.aboBoxcon.aboBoxcon2 {
+    padding: 20px 10px 0 10px;
+}
+
+.abbaPrograp {
+    padding: 0 0px;
+}
+
+.abotusec-abo {
+    padding: 0 0px;
+}
+
+.abbaPrograp span {
+    font-size: 16px;
+}
+
+.abbaPrograp p {
+    font-size: 14px;
+    text-align: start;
+}
+
+.serviceDet-cabsec {
+    padding: 60px 0;
+}
+
+section.cabDet-pro span {
+    box-shadow: inset 0 -8px 0 0 #ffb300;
+}
+
+section.cabDet-pro h3 {
+    font-size: 18px;
+}
+
+section.cabDet-pro p {
+    font-size: 14px;
+}
+
+.pickupsBox {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.serviceDet-rightcon {
+    margin-bottom: 25px;
+}
+
+section.bookCab-wp {
+    margin: 44px 0 0;
+ }
+
+ .travelJipur-sec {
+    padding: 70px 0 0px;
+}
+
+.packages-sec {
+    padding: 70px 0 0;
+}
+.otherBg h5 {
+    width: 46%;
+}
+
+.packages-sec {
+    padding: 70px 0 50px !important;
+}
+
+.bookCad-sec {
+    padding: 50px 0px;
+}
+
+section.contact-wp {
+    padding: 40px 0;
+}
+
+.contact-leftcon button {
+    width: 30%;
+}
+
+
+
+
+}
+

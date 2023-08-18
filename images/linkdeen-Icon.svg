@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <g id="linkdeen-Icon" transform="translate(0 -0.246)">
+    <g id="Layer_2" data-name="Layer 2" transform="translate(0 0.092)">
+      <g id="_10.linkedin" data-name="10.linkedin">
+        <circle id="Ellipse_2" data-name="Ellipse 2" cx="12.5" cy="12.5" r="12.5" transform="translate(0 0.153)" fill="#fff"/>
+        <g id="Group_5" data-name="Group 5" transform="translate(6.348 6.23)">
+          <path id="Path_11" data-name="Path 11" d="M41.686,39.721A1.723,1.723,0,1,1,39.965,38,1.723,1.723,0,0,1,41.686,39.721Z" transform="translate(-38.24 -38)"/>
+          <rect id="Rectangle_2" data-name="Rectangle 2" width="2.666" height="8.454" rx="1.333" transform="translate(0.392 4.161)"/>
+          <path id="Path_12" data-name="Path 12" d="M72.166,66.827v3.68a.392.392,0,0,1-.392.392H69.829a.392.392,0,0,1-.392-.392V66.941c0-.533.154-2.324-1.391-2.324-1.2,0-1.442,1.232-1.494,1.784v4.113a.392.392,0,0,1-.388.383H64.282a.39.39,0,0,1-.392-.392V62.838a.392.392,0,0,1,.392-.393h1.882a.393.393,0,0,1,.4.393V63.5a2.677,2.677,0,0,1,2.511-1.182C72.185,62.318,72.166,65.228,72.166,66.827Z" transform="translate(-59.632 -58.283)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

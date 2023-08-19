@@ -331,9 +331,3 @@ section.contact-wp {
         margin-top: 33%;
     }
 }
-
-@media screen and (max-width: 390px) {
-    section.banner-HMWP {
-        margin-top: 42%;
-    }
-}

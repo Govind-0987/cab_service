@@ -34,7 +34,7 @@ section.banner-HMWP {
 
 section.banner-HMWP {
     padding: 30px 0;
-    margin-top: 43%;
+    margin-top: 28%;
 }
 
 .banner-rightHM p {
@@ -44,8 +44,7 @@ section.banner-HMWP {
 }
 
 .abouthm-rightcon h5 {
-    width: 18.2%;
-    font-size: 14px;
+    width: 26.2%;
     margin-left: 38%;
 }
 
@@ -96,7 +95,7 @@ button.navbar-toggler {
 }
 
 .footer-boxcmn h5 {
-    font-size: 18px;
+    /* font-size: 18px; */
     margin: 0;
 }
 
@@ -127,7 +126,7 @@ section.client-reviewwp {
 }
 
 .client-revright h5 {
-    font-size: 16px;
+    /* font-size: 16px; */
     margin: 0;
 }
 
@@ -174,17 +173,13 @@ section.service-hmwp {
     margin-bottom: 30px;
 }
 
-.service-leftcon h5 {
-    font-size: 16px;
-}
-
 .service-leftcon p {
     font-size: 12px;
 }
 
 a.cmn-cadA {
     font-size: 13px;
-    padding: 4px 10px;
+    /* padding: 4px 10px; */
 }
 
 .service-leftcon {
@@ -217,9 +212,8 @@ a.cmn-cadA {
 }
 
 .gallery-head h5 {
-    width: 15.3%;
-    font-size: 16px;
-    margin-left: 39%;
+    width: 19.3%;
+    margin-left: 38%;
 }
 
 .gallery-head {
@@ -227,7 +221,7 @@ a.cmn-cadA {
 }
 
 .abotusec-abo h4 {
-    font-size: 18px;
+    /* font-size: 18px; */
     padding-bottom: 10px;
 }
 
@@ -280,7 +274,7 @@ section.cabDet-pro span {
 }
 
 section.cabDet-pro h3 {
-    font-size: 18px;
+    /* font-size: 18px; */
 }
 
 section.cabDet-pro p {
@@ -332,3 +326,14 @@ section.contact-wp {
 
 }
 
+@media screen and (max-width: 390px) {
+    section.banner-HMWP {
+        margin-top: 33%;
+    }
+}
+
+@media screen and (max-width: 390px) {
+    section.banner-HMWP {
+        margin-top: 42%;
+    }
+}

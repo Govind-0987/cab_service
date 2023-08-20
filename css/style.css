@@ -663,3 +663,7 @@ section.cabDet-pro span {
 .box-travelcon {
     height: 300px;
 }
+
+section.contact-wp {
+    padding: 70px 0px !important;
+}

@@ -667,3 +667,12 @@ section.cabDet-pro span {
 section.contact-wp {
     padding: 70px 0px !important;
 }
+
+.box-travelcon p {
+    text-align: justify;
+}
+
+.header-topleft a {
+    text-decoration: none;
+    color: #fff;
+}

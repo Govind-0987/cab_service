@@ -676,3 +676,24 @@ section.contact-wp {
     text-decoration: none;
     color: #fff;
 }
+
+ul.contantNum {
+    padding: 0;
+    margin: 0;
+    padding-top: 20px;
+}
+
+ul.contantNum li {
+    list-style: none;
+}
+
+ul.contantNum li {
+    list-style: none;
+    font-size: 20px;
+    margin-right: 10px;
+    display: inline-block;
+}
+
+ul.contantNum img {
+    margin-right: 10px;
+}
